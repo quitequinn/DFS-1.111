@@ -1,0 +1,14 @@
+.circle{
+	border-radius: 50%;
+	background: red;
+	height: 100px;
+	width: 100px;
+	margin: 0 auto;
+	position: relative;
+	top: 50vh;
+	margin-top: -50px;
+}
+p{
+	text-align: center;
+	line-height: 100px;
+}
